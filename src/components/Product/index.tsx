@@ -18,13 +18,13 @@ type ProductProps = {
 export const Product: FC<ProductProps> = ({ product }) => {
   return (
     <div className="group relative">
-      <div className="min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75 lg:aspect-none lg:h-80">
+      <button className="min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-md bg-gray-200 shadow-sm ring-1 ring-slate-700/10 group-hover:opacity-75 lg:aspect-none lg:h-80">
         <img
           src={product.imageSrc}
           alt={product.imageAlt}
           className="h-full w-full object-cover object-center lg:h-full lg:w-full"
         />
-      </div>
+      </button>
       <div className="mt-4 flex justify-between">
         <div>
           <h3 className="text-sm text-gray-700">
