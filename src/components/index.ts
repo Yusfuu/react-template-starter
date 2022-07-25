@@ -3,5 +3,4 @@
  to avoid having to import it in every file
 */
 
-export { };
-
+export {};
