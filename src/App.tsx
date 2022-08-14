@@ -1,4 +1,4 @@
-import Beams from '@/assets/Beams.png';
+import Beams from '@/assets/beams.png';
 import { useLogos } from './hooks/useLogos';
 
 const App = () => {
