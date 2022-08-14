@@ -50,7 +50,7 @@ const App = () => {
         <h1 className="relative text-center text-6xl font-bold drop-shadow-xl">
           Scaffolding Your React Project
           <span
-            className="absolute top-[-24px] right-[-6px] flex flex-row rounded-md bg-[rgba(244,44,64,0.8)] 
+            className="absolute top-[-24px] right-[-6px] flex flex-row rounded-md bg-green-500
             px-[6px] py-[4px] text-[12px] text-white md:right-[-36px] md:top-[-16px]"
           >
             v1.0
