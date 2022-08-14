@@ -1,4 +1,4 @@
-# react-template-starter
+# React template starter
 
 🚀 Scaffolding Your React Project.
 
