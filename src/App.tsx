@@ -3,7 +3,6 @@ import { useLogos } from './hooks/useLogos';
 
 const App = () => {
   const { logos } = useLogos();
-
   return (
     <div className="flex flex-col items-center justify-center overflow-x-hidden px-6">
       <img className="pulse fixed z-[-1] h-[100%] object-cover" src={Beams} alt="" />
@@ -48,7 +47,7 @@ const App = () => {
         <div className="h-8" />
 
         <h1 className="relative text-center text-6xl font-bold drop-shadow-xl">
-          Scaffolding Your React Project
+          Scaffolding Your React Project 🚀
           <span
             className="absolute top-[-24px] right-[-6px] flex flex-row rounded-md bg-green-500
             px-[6px] py-[4px] text-[12px] text-white md:right-[-36px] md:top-[-16px]"
