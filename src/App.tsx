@@ -5,7 +5,7 @@ const App = () => {
   const { logos } = useLogos();
   return (
     <div className="flex flex-col items-center justify-center overflow-x-hidden px-6">
-      <img className="pulse fixed z-[-1] h-[100%] object-cover" src={Beams} alt="" />
+      <img className="pulse fixed z-[-1] h-[100%] object-cover" src={Beams} alt="beams" />
 
       {/* Project Socials. */}
       <div className="fixed top-4 right-4 flex flex-row items-center">
@@ -52,7 +52,7 @@ const App = () => {
             className="absolute top-[-24px] right-[-6px] flex flex-row rounded-md bg-green-500
             px-[6px] py-[4px] text-[12px] text-white md:right-[-36px] md:top-[-16px]"
           >
-            v1.0
+            v1.1
           </span>
         </h1>
         <div className="h-3" />
