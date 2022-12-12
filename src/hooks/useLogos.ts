@@ -14,7 +14,7 @@ export const useLogos = () => {
       href: 'https://github.com/features/actions',
     },
     {
-      src: 'https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png',
+      src: 'https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg',
       alt: 'Cypress',
       href: 'https://www.cypress.io',
     },
