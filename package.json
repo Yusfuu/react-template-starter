@@ -19,7 +19,7 @@
     "react-hook-form": "^7.40.0",
     "react-i18next": "^12.1.1",
     "react-redux": "^8.0.5",
-    "react-router-dom": "^6.4.5"
+    "react-router-dom": "^6.5.0"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
