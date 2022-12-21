@@ -1107,10 +1107,10 @@ fraction.js@^4.2.0:
   resolved "https://registry.yarnpkg.com/fraction.js/-/fraction.js-4.2.0.tgz#448e5109a313a3527f5a3ab2119ec4cf0e0e2950"
   integrity sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==
 
-framer-motion@^7.9.1:
-  version "7.9.1"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-7.9.1.tgz#543213039d42bb09a459b2941fce358c48f2c9cd"
-  integrity sha512-oYZkESoGsLAc5P+ycz+IrPEkXB9i+e1LeIMZczO8cHKSo5LW4r4JXan9wRjn2u77Zn59K0UK1kGjxcNyLzbFPQ==
+framer-motion@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-8.0.1.tgz#73b3e9b49e11434dfe7ca387e90ca214bc0b6ef9"
+  integrity sha512-rr9Sb97cGM5BWU0jMsmTi9x5w8hF90p6wRUlXto5IFejxMVS8YUxT8Ljjy8RspQKPEGOQUZDIZNvlcLBhs0tMw==
   dependencies:
     "@motionone/dom" "^10.15.3"
     hey-listen "^1.0.8"
