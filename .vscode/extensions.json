@@ -1,4 +1,4 @@
 {
-  "recommendations": ["bradlc.vscode-tailwindcss", "esbenp.prettier-vscode", "ZixuanChen.vitest-explorer"],
+  "recommendations": ["bradlc.vscode-tailwindcss"],
   "unwantedRecommendations": []
 }
